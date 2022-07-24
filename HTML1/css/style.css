@@ -20,6 +20,11 @@ body {
     height: 250px;
 }
 
+.right1{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
 .left1{
     width: 150px;
     height: 250px;
@@ -50,13 +55,13 @@ body {
     width: 100px;
     height: 150px;
     background-color: #ff9e6b;
-    float: left;
+    float: right;
 }
 .right3{
     width: 250px;
     height: 100px;
     background-color: #8c2727;
-    float: left;
+    clear: both;
 }
 
 .footer{
